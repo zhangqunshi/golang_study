@@ -42,6 +42,9 @@ go build
 
 看上去确实简单，不过有些地方感觉比较怪。Printf函数为啥要首字母大写呢。package main是一个特殊的包，表示其为可执行文件，不是一个库（都已经有main函数了，还整出这个概念干啥）。
 
+此系列其他文章地址：
+https://github.com/zhangqunshi/golang_study
+
 -------------------------
 参考资料：
 https://golang.org/doc/

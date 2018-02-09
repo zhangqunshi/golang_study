@@ -68,6 +68,9 @@ func main() {
 
 ```
 
+此系列其他文章地址：
+https://github.com/zhangqunshi/golang_study
+
 -------------------------
 参考资料：
 https://golang.org/doc/
